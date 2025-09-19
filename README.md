@@ -1,1 +1,0 @@
-# CRM-application-for-jewel-management---developer-
